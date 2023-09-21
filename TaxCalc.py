@@ -26,17 +26,3 @@ if __name__ == "__main__":
         print(f"Your income tax for the year is: {tax:.2f} SGD")
     except ValueError as e:
         print(f"Error: {e}")
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
